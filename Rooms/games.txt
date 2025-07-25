@@ -1,0 +1,1 @@
+Cada carpeta tiene un nombre espesifico y en estas misma se alojan sus juegos o rooms en especifico.
