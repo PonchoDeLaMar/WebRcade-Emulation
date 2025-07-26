@@ -6,4 +6,4 @@ git push -u origin main
 Empieza por ingresar este texto.
 
 //Ruta para crear los fondos e iconos
-Inicio/public/imagine/app/Nombre de cada emulador
+Inicio/public/imagine/app/Nombre de cada emulador background and thumb.png
