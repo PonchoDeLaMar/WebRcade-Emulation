@@ -1,0 +1,42 @@
+{
+  "title": "Kuro Zero",
+  "props": {},
+  "categories": [
+    {
+      "title": "Nintendo NES",
+      "longTitle": "Nintendo Entertainment System Games",
+      "description": "The Nintendo Entertainment System (NES) is an 8-bit third-generation home video game console produced by Nintendo. Nintendo first released it in Japan as the Family Computer, commonly known as the Famicom, in 1983. The NES, a remodelled version, was released internationally in the following years.",
+      "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/nes-thumb.png",
+      "background": "https://webrcade.github.io/webrcade-default-feed/images/nes-background.png"
+    },
+    {
+      "title": "Nintendo SNES",
+      "longTitle": "Super Nintendo Games",
+      "description": "The SNES is Nintendo's second programmable home console, following the Nintendo Entertainment System (NES). The console introduced advanced graphics and sound capabilities compared with other systems at the time. The system was designed to accommodate the ongoing development of a variety of enhancement chips integrated into game cartridges to be competitive into the next generation.",
+      "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/snes-thumb.png",
+      "background": "https://webrcade.github.io/webrcade-default-feed/images/snes-background.png"
+    },
+    {
+      "title": "Nintendo Game Boy",
+      "longTitle": "Nintendo Game Boy Games",
+      "description": "The Game Boy is an 8-bit handheld game console developed and manufactured by Nintendo. The Game Boy was designed by Nintendo's chief engineer Gunpei Yokoi and its Nintendo R&D1 team.",
+      "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/gb-thumb.png",
+      "background": "https://webrcade.github.io/webrcade-default-feed/images/gb-background.png"
+    },
+    {
+      "title": "Nintendo GBC",
+      "longTitle": "Nintendo Game Boy Color Games",
+      "description": "The Game Boy Color (commonly abbreviated as GBC) is a handheld game console, manufactured by Nintendo. It is the successor to the Game Boy and is part of the Game Boy family. The GBC features a color screen rather than monochrome, but it is not backlit. It is slightly thicker and taller and features a slightly smaller screen than the Game Boy Pocket, its immediate predecessor in the Game Boy line.",
+      "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/gbc-thumb.png",
+      "background": "https://webrcade.github.io/webrcade-default-feed/images/gbc-background.png"
+    },
+    {
+      "title": "Nintendo GBA",
+      "longTitle": "Nintendo Game Boy Advance Games",
+      "description": "The Game Boy Advance (GBA) is a 32-bit handheld game console developed, manufactured and marketed by Nintendo as the successor to the Game Boy Color. Contrary to the previous Game Boy models, which have the \\\"portrait\\\" form factor of the original Game Boy, the Game Boy Advance was designed in a \\\"landscape\\\" form factor, putting the buttons to the sides of the device instead of below the screen.",
+      "thumbnail": "https://webrcade.github.io/webrcade-default-feed/images/gba-thumb.png",
+      "background": "https://webrcade.github.io/webrcade-default-feed/images/gba-background.png"
+    }
+  ],
+  "longTitle": "Kuro Zero Feed"
+}
