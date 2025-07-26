@@ -4,3 +4,6 @@ git branch -M main
 git push -u origin main
 
 Empieza por ingresar este texto.
+
+//Ruta para crear los fondos e iconos
+Inicio/public/imagine/app/Nombre de cada emulador
